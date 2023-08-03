@@ -1,0 +1,9 @@
+/* list_element     style={{margin:"25px", backgroundColor:"slategray", borderStyle:"solid", borderRadius:"13px", borderColor:"lightgreen"}}*/
+
+.list_element{
+    margin: 25px;
+    background-color: rgb(2, 126, 249);
+    border-style: solid;
+    border-radius: 13px;
+    border-color: lightgray;
+}
